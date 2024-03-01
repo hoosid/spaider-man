@@ -1,4 +1,4 @@
-import pro1 from "../assets/spider-2.webp";
+import pro1 from "../assets/spider2.webp";
 import pro2 from "../assets/spider3.jpg";
 import pro3 from "../assets/spider4.jpg";
 
